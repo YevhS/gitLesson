@@ -1,1 +1,3 @@
-# gitLesson
+# gitLesson 
+hello
+bye
